@@ -22,3 +22,4 @@ for i in range(len(A)):
 
 for r in result:
 	print(r)
+
